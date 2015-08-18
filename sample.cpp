@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {
  cout<<"Hello! I am Ashlesha";
- cout<<"I study in Cummins college";
-
+ cout<<"Tanbi is my fliend";
  return 0;
 }
